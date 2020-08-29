@@ -1,41 +1,43 @@
 {
-    "name": "deco-it",
-    "displayName": "deco-it",
-    "description": "vscode color theme : just decorate it",
-    "version": "1.0.0",
-    "engines": {
-        "vscode": "^1.42.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "trepid",
-        "trepid ink",
-        "trepid-ink"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "deco-it",
-                "uiTheme": "vs-dark",
-                "path": "./themes/deco-it-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/squeeble-ink/vscode.deco-it.git"
-    },
-    "bugs": {
-        "url": "https://github.com/squeeble-ink/vscode.deco-it/issues"
-    },
-    "icon": "assets/logo.png",
-    "devDependencies": {
-        "eslint": "^7.7.0",
-        "eslint-config-airbnb": "^18.2.0",
-        "eslint-config-prettier": "^6.11.0",
-        "eslint-plugin-prettier": "^3.1.4"
-    }
+  "name": "deco-it",
+  "displayName": "deco-it",
+  "description": "vscode color theme : just decorate it",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "publisher": "Squeeble",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "trepid",
+    "trepid ink",
+    "trepid-ink"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "deco-it",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deco-it-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squeeble-ink/vscode.deco-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/squeeble-ink/vscode.deco-it/issues"
+  },
+  "icon": "assets/logo.png",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4"
+  }
 }

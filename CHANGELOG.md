@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "deco-it" extension will be documented in this file.
+## [[v1.0.0] - 29/08/2020 - Initial release](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.0.0)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+![Trepid Ink](./assets/deco-it-ts-100.png)  
+![Trepid Ink](./assets/deco-it-js-100.png)  
+![Trepid Ink](./assets/deco-it-json-100.png)
