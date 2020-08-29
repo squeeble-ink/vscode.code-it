@@ -1,4 +1,4 @@
-# vscode.code-it
+# deco-it
 
 [vscode](https://code.visualstudio.com/) color theme : just decorate it
 
