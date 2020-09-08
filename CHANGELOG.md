@@ -1,5 +1,21 @@
 # Change Log
 
+## [[v1.0.3] - 29/08/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.0.2)
+
+### Added
+
+- README badges
+
+  - issues
+  - version
+  - instals
+
+- Package tags
+
+  - decorate
+  - decorate it
+  - decorate-it
+
 ## [[v1.0.2] - 29/08/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.0.2)
 
 ### Updated

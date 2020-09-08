@@ -15,7 +15,10 @@
     "theme",
     "trepid",
     "trepid ink",
-    "trepid-ink"
+    "trepid-ink",
+    "decorate",
+    "decorate it",
+    "decorate-it"
   ],
   "contributes": {
     "themes": [
