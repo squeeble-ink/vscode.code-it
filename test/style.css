@@ -1,0 +1,15 @@
+p {
+  background-image: url("example.gif");
+  text-align: center;
+  color: red;
+}
+
+#id {
+  text-align: center;
+  color: #ff0000;
+}
+
+.class {
+  text-align: center;
+  color: red;
+}

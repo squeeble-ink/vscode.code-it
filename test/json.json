@@ -2,6 +2,8 @@
   "A really instresting json file": "json.json",
   "So why are you reading this?": "beacause you like this theme?",
   "Well download it then,": "it is free for every one!",
-  "Don't beleave me?": "well why dont you clink on the link",
-  "The link": "https://github.com/squeeble-ink/vscode.deco-it"
+  "Don't beleave me?": {
+    "well why dont you clink on the link": "her below",
+    "The link": "https://github.com/squeeble-ink/vscode.deco-it"
+  }
 }
