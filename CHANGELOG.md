@@ -1,5 +1,36 @@
 # Change Log
 
+## [[v1.1.0] - 23/12/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.1.0)
+
+### Added
+
+- README
+
+  - logo
+
+- Package tags
+
+  - deco
+  - deco it
+  - deco-it
+
+- CSS Test file
+
+  - ![deco-it-css](./assets/deco-it-css-110.png)
+
+### Updated
+
+- README images
+- CHANGELOG
+- color highlighting
+
+  - old ts ![deco-it-ts](./assets/deco-it-ts-100.png)  
+  - new ts ![deco-it-ts](./assets/deco-it-ts-110.png)  
+  - old js ![deco-it-js](./assets/deco-it-js-100.png)  
+  - new js ![deco-it-js](./assets/deco-it-js-110.png)  
+  - old json ![deco-it-json](./assets/deco-it-json-100.png)
+  - new json ![deco-it-json](./assets/deco-it-json-110.png)
+
 ## [[v1.0.3] - 29/08/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.0.2)
 
 ### Added
