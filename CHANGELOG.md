@@ -7,6 +7,7 @@
 - README
 
   - logo
+  - old trepid-ink project
 
 - Package tags
 
