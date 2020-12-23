@@ -1,5 +1,13 @@
 # Change Log
 
+## [[v1.1.1] - 23/12/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.1.1)
+
+### Revered
+
+- color highlighting modifier to v.1.0.0
+  - old ts ![deco-it-ts](./assets/deco-it-ts-110.png)  
+  - new ts ![deco-it-ts](./assets/deco-it-ts-111.png)  
+
 ## [[v1.1.0] - 23/12/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.1.0)
 
 ### Added

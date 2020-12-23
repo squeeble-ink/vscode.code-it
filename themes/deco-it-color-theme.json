@@ -83,7 +83,11 @@
     },
     {
       "name": "Tag Name",
-      "scope": ["entity.name.tag", "meta.tag.sgml"],
+      "scope": [
+        "entity.name.tag",
+        "meta.tag.sgml",
+        "storage.modifier"
+      ],
       "settings": {
         "foreground": "#F92672"
       }
