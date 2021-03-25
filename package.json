@@ -5,6 +5,9 @@
   "version": "1.1.1",
   "license": "GPL-3.0",
   "publisher": "Squeeble",
+  "scripts": {
+    "build": "node ./builder/run.js"
+  },
   "engines": {
     "vscode": "^1.42.0"
   },
