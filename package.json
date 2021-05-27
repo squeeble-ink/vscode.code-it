@@ -2,7 +2,7 @@
   "name": "deco-it",
   "displayName": "Decorate it",
   "description": "vscode color theme : just decorate it",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "license": "GPL-3.0",
   "publisher": "Squeeble",
   "engines": {
@@ -26,9 +26,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "deco-it",
+        "label": "Decorate it",
         "uiTheme": "vs-dark",
         "path": "./themes/deco-it-color-theme.json"
+      },
+      {
+        "label": "Trepid ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trepid-ink-color-theme.json"
+      },
+      {
+        "label": "Classic bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/classic-brigt-color-theme.json"
+      },
+      {
+        "label": "Classic soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/classic-soft-color-theme.json"
       }
     ]
   },

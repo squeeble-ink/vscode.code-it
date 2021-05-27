@@ -1,12 +1,26 @@
 # Change Log
 
+## [[v2.0.0] - 27/05/2021](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v2.0.0)
+
+### Added
+
+- themes
+  - Trepid ink (Trepid ink v0.2.5)
+  - Classic bright (Trepid ink v0.0.3)
+  - Classic soft (Trepid ink soft v0.0.3)
+
+### Updated
+
+- logo  
+  old: <img alt="logo-v1.0.3" src="./assets/logo-103.png" width="200"> new: <img alt="logo-v2.0.0" src="./assets/logo.png" width="200">
+
 ## [[v1.1.1] - 23/12/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.1.1)
 
 ### Revered
 
 - color highlighting modifier to v.1.0.0
-  - old ts ![deco-it-ts](./assets/deco-it-ts-110.png)  
-  - new ts ![deco-it-ts](./assets/deco-it-ts-111.png)  
+  - old ts ![deco-it-ts](./assets/deco-it-ts-110.png)
+  - new ts ![deco-it-ts](./assets/deco-it-ts-111.png)
 
 ## [[v1.1.0] - 23/12/2020](https://github.com/squeeble-ink/vscode.deco-it/releases/tag/v1.1.0)
 
@@ -33,10 +47,10 @@
 - CHANGELOG
 - color highlighting
 
-  - old ts ![deco-it-ts](./assets/deco-it-ts-100.png)  
-  - new ts ![deco-it-ts](./assets/deco-it-ts-110.png)  
-  - old js ![deco-it-js](./assets/deco-it-js-100.png)  
-  - new js ![deco-it-js](./assets/deco-it-js-110.png)  
+  - old ts ![deco-it-ts](./assets/deco-it-ts-100.png)
+  - new ts ![deco-it-ts](./assets/deco-it-ts-110.png)
+  - old js ![deco-it-js](./assets/deco-it-js-100.png)
+  - new js ![deco-it-js](./assets/deco-it-js-110.png)
   - old json ![deco-it-json](./assets/deco-it-json-100.png)
   - new json ![deco-it-json](./assets/deco-it-json-110.png)
 

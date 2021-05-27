@@ -14,6 +14,9 @@
     "editorWhitespace.foreground": "#444444",
     "editorUnnecessaryCode.opacity": "#00000070",
 
+    "editorIndentGuide.background": "#444444",
+    "editorIndentGuide.activeBackground": "#707070",
+
     "tab.activeBorder": "#007ACC"
   },
   "tokenColors": [
